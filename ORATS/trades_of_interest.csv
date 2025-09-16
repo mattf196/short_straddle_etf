@@ -1,0 +1,2 @@
+trade_name,start_date,end_date,target_tenor,target_delta1,target_delta2,earnings_skip_days
+shortstraddle_030_050,20141231,20250531,30,0.5,,0
