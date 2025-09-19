@@ -19,7 +19,7 @@ python src/0080_combine_option_performance.py
 
 ## Data Requirements
 
-Input data from ORATS cannot be provided due to copyright restrictions. With an ORATS subscription, the programs (in particualr 0020 and beyond) should run seamlessly.
+Input data from ORATS cannot be provided due to copyright restrictions. With an ORATS subscription, the programs (in particular 0020 and beyond) should run seamlessly.
 
 export ORATS_FTP_USER="myusername@site.com"
 export ORATS_FTP_PASSWORD="mypassword"
